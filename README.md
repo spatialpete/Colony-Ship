@@ -1,0 +1,2 @@
+# Colony-Ship
+If we assume that faster than light travel is not possible, then one alternative are ships that support multiple generations of people while traveling long distances. This is also assuming that cryogenics are not feasible or desirable, and that reproduction in space is possible. This will be a (hopefully) realistic design of a spaceship that can stay in space indefinitely using current technology.
