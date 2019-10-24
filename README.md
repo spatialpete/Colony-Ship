@@ -4,6 +4,7 @@ If we assume that faster than light travel is not possible, then one alternative
 Other assumptions:
 1. The minimum viable population is 160 (https://www.newscientist.com/article/dn1936-magic-number-for-space-pioneers-calculated/#.VBiC_XtDLwo)
 2. It will have to be a modular design that is hauled to space on multiple trips.
+3. The main ship will only be used in space, so size will be less of an issue. A second, smaller ship will need to be carried for exploring planets, asteroid mining, etc.
 
 Questions:
 1. Is power finite? When leaving the solar system is there enough sunlight to power solar panels and push a solar sail? A nuclear reactor may be needed to provide power when solar panels are not sufficient.
